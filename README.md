@@ -29,7 +29,7 @@ The purpose of this project was to create a simple API with basic CRUD (Create, 
 
 If you use [NVM](https://github.com/nvm-sh/nvm), just run `nvm use` inside of the root folder.
 
-# **Installing:**
+## **Installing:**
 
 Since the project was made using only native modules, there's no need to run `npm i` ou `yarn`, just clone this repository and you're good to go.
 
