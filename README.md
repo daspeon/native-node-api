@@ -11,9 +11,9 @@
 ## Table of Contents
 
 - [About](#about)
+- [Requirements](#requirements)
+- [Installing](#installing)
 - [Usage](#usage)
-  - [Requirements](#requirements)
-  - [Installing](#installing)
   - [Starting](#starting)
   - [Routes](#routes)
     - [Requests](#requests)
@@ -23,17 +23,17 @@
 
 The purpose of this project was to create a simple API with basic CRUD (Create, Read, Update, Delete) operations using only native modules from Node, such as `fs` to write and read files and `http` to create the server and handle requests. No database was used, all the records are stored in a single **.txt** file that is single handed by Node file system module.
 
-## Usage
-
-### **Requirements:**
+## **Requirements:**
 
 - [NodeJS](https://nodejs.org/en) v.20 or higher
 
 If you use [NVM](https://github.com/nvm-sh/nvm), just run `nvm use` inside of the root folder.
 
-### **Installing:**
+# **Installing:**
 
 Since the project was made using only native modules, there's no need to run `npm i` ou `yarn`, just clone this repository and you're good to go.
+
+## Usage
 
 ### **Starting**
 
